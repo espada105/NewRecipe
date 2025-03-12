@@ -1,6 +1,6 @@
 # NewRecipe 🍽️
 
-## Innovative AI-Powered Culinary Assistant
+## AI-Powered Culinary Assistant
 
 ![Cooking App Interface](https://github.com/user-attachments/assets/f9d48386-1f5e-4cec-b295-3facaa42d186)
 
